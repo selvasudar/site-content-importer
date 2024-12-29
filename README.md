@@ -41,8 +41,7 @@ A powerful WordPress plugin that allows you to import content from any website i
 
 1. Admin Interface
    ![Admin Interface](screenshots/admin-interface.png)
-2. Import Progress
-   ![Import Progress](screenshots/import-progress.png)
+
 
 ## Known Limitations
 
