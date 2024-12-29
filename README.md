@@ -66,7 +66,7 @@ This project is licensed under the GPL v2 or later - see the [LICENSE.md](LICENS
 
 ## Credits
 
-Developed by [Selvakumar Duraipandian]
+Developed by Selvakumar Duraipandian
 
 ## Support
 
