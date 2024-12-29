@@ -3,7 +3,7 @@
 Plugin Name: Site Content Importer
 Description: Import content from any website into WordPress posts/pages
 Version: 1.0
-Author: Selvasudar
+Author: Selvakumar Duraipandian
 */
 
 // Prevent direct access
